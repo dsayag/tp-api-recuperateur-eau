@@ -21,7 +21,7 @@
 - Récupérer la liste des résidences d’un utilisateur
 - Récupérer une résidence suivant son id
 - Créer une résidence
-  Mettre à jour une résidence
+- Mettre à jour une résidence
 - Supprimer une résidence
 
 #### Cuves
@@ -30,15 +30,14 @@
 - Créer une cuve
 - Mettre à jour une cuve
 - Supprimer une cuve
-- 
+
 #### Données
 - Récupérer la liste des données d’une cuve (prévoir une méthode dans le repository Donnee).
 - Récupérer une donnée suivant son id
 - Créer une donnée
 - Mettre à jour une donnée
 - Supprimer une donnée
-- 
+
 #### Temps
 - Récupérer la liste des 5 derniers jours de temps d’une résidence
 - Créer un temps (non fait)
-- Mettre à jour un temps (non fait)
